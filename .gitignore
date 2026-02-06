@@ -1,0 +1,45 @@
+# --------------------
+# Python
+# --------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv/
+venv/
+
+# --------------------
+# Jupyter
+# --------------------
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# --------------------
+# Data files
+# --------------------
+data/raw/*
+data/interim/*
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+
+# --------------------
+# Large outputs
+# --------------------
+figures/*.png
+figures/*.jpg
+figures/*.pdf
+
+# --------------------
+# OS / WSL
+# --------------------
+.DS_Store
+Thumbs.db
+
+# --------------------
+# Editors
+# --------------------
+.vscode/
+.idea/
+
