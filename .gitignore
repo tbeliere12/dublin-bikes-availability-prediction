@@ -19,6 +19,7 @@ venv/
 # --------------------
 # Data files
 # --------------------
+data/processed/*
 data/zips/*
 data/raw/*
 data/interim/*
