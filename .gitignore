@@ -19,6 +19,7 @@ venv/
 # --------------------
 # Data files
 # --------------------
+data/zips/*
 data/raw/*
 data/interim/*
 !data/raw/.gitkeep
