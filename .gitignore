@@ -33,6 +33,12 @@ figures/*.png
 figures/*.jpg
 figures/*.pdf
 
+#---------------------
+# Numerous files
+#---------------------
+cache/*.json
+*.json
+
 # --------------------
 # OS / WSL
 # --------------------
