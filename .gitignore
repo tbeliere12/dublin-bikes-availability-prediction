@@ -25,7 +25,7 @@ data/raw/*
 data/interim/*
 !data/raw/.gitkeep
 !data/interim/.gitkeep
-
+*.parquet
 # --------------------
 # Large outputs
 # --------------------
